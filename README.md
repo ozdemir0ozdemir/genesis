@@ -1,0 +1,2 @@
+# genesis
+ilk projenin klonu
