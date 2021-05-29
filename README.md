@@ -1,2 +1,1 @@
-# genesis
-ilk projenin klonu
+# starter
